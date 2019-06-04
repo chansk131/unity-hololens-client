@@ -1,0 +1,11 @@
+{
+  "iceConfiguration": "none",
+  "turnServer": {
+    "uri": "turn:turnserveruri:5349",
+    "username": "username",
+    "password": "password"
+  },
+  "server": "http://192.168.0.123",
+  "port": 443,
+  "heartbeat": 5000
+}
